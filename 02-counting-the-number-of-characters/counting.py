@@ -1,5 +1,5 @@
 def charcount(string):
-    return len(string)
+    return len(string.replace(" ", ""))
 
 
 if __name__ == "__main__":
