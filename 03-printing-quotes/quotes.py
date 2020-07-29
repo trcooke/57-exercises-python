@@ -6,4 +6,3 @@ if __name__ == "__main__":
     who = input("Who said it? ")
     output = quotation(who, quote)
     print(output)
-E
