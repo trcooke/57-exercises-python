@@ -1,5 +1,5 @@
 import unittest
-import hello
+from exercises.Ex01_saying_hello import hello
 
 
 class TestHello(unittest.TestCase):

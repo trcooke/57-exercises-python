@@ -1,5 +1,5 @@
 import unittest
-import counting
+from exercises.Ex02_counting_the_number_of_characters import counting
 
 
 class TestHello(unittest.TestCase):

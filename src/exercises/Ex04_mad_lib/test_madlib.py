@@ -1,5 +1,5 @@
 import unittest
-import madlib
+from exercises.Ex04_mad_lib import madlib
 
 
 class TestQuotes(unittest.TestCase):

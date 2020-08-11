@@ -1,5 +1,5 @@
 import unittest
-import quotes
+from exercises.Ex03_printing_quotes import quotes
 
 
 class TestQuotes(unittest.TestCase):
